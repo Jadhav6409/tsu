@@ -1,0 +1,5 @@
+pylint
+black
+pytest
+pytest-cov
+cx-Freeze
